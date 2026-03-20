@@ -25,13 +25,13 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- Purpose: The purpose of the game is to guess a number, as you get closer to the number, you get Hotter, and Colder as you get further away to the number. You have 8 guesses to find the number, and each incorrect guess will deduct points.
+- Bugs: The guess hint logic was reversed, so each guess would produce hints that took you further away from the correct answer.
+- Fixes: Fixes applied were the hint logic, boundary checking for the user inputs, as well as the storing of user inputs into the guess array in which caused hints to not appear.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- ![Fixed Game](image.png)
 
 ## 🚀 Stretch Features
 
