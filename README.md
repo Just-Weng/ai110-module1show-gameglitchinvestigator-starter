@@ -36,3 +36,6 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 🚀 Stretch Features
 
 - ![Stretch Features Game](image-2.png)
+
+## Testing
+- ![Pytest](image-3.png)
