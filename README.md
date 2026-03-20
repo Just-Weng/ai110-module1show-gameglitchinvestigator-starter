@@ -27,7 +27,7 @@ It wrote the code, ran away, and now the game is unplayable.
 
 - Purpose: The purpose of the game is to guess a number, as you get closer to the number, you get Hotter, and Colder as you get further away to the number. You have 8 guesses to find the number, and each incorrect guess will deduct points.
 - Bugs: The guess hint logic was reversed, so each guess would produce hints that took you further away from the correct answer.
-- Fixes: Fixes applied were the hint logic, boundary checking for the user inputs, as well as the storing of user inputs into the guess array in which caused hints to not appear.
+- Fixes: Fixes applied were the hint logic, boundary checking for the user inputs, as well as the storing of user inputs into the guess array in which caused hints to not appear, and the new game button not starting a new game.
 
 ## 📸 Demo
 
@@ -35,4 +35,4 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 🚀 Stretch Features
 
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+- ![Hot/Cold](image-1.png)
